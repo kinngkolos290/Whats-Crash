@@ -32,7 +32,7 @@ this tool allow an attacker to conduct DOS attack against whatsapp user, whatsap
 apt install python3
 ```
 ```
-git clone https://github.com/evilfeonix/Whats-Crash.git
+https://github.com/kinngkolos290/Whats-Crash.git
 ```
 ```
 cd Whats-Crash
