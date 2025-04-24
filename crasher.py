@@ -1,8 +1,8 @@
 # Versoin: 1.3
-# Author: evilfeonix
+# Author: supreme destructor
 # Name: WhatsApp Crashing Tool
-# Website: www.evilfeonix.com 
-# Email: evilfeonix@gmail.com 
+# Website: www.bc-hacktools.com 
+# Email: bainroseline788@gmail.com 
 # Latest Update: 15 - FEBUARY - 2025
 
 
@@ -36,12 +36,12 @@ def internet():
 
 def aboutus():
     slow("    Version        ::   v[1.3]")
-    slow("    Author         ::   evilfeonix")
+    slow("    Author         ::   supreme destructor")
     slow("    Tool Name      ::   Whats Crash")
     slow("    Latest Update  ::   15 - FEB - 2025")
     slow("    Github         ::   Digital Firebird")
     slow("    Youtube        ::   Digital Firebird")
-    slow("    Email Address  ::   evilfeonix@gmail.com")
+    slow("    Email Address  ::  bainroseline@gmail.com")
     slow(f"==========================================================={white}\n")
 
 
@@ -89,10 +89,10 @@ def set_malicious_payload(user):
         "ëvĩʟ-fɘōɳĭx": """HAHAHA!.\n\twe are 🎭 anonymous,\n\twe represent freedom,\n\twe oppose oppression,\n\twe are simply an evolution 🧬 of the technology system 👨🏾‍💻,\n\twhere liberty 🗽 is at risk,\n\texpect us 👥.
 
     ======================================================================================
-        ‎‏         >> ëvĩʟ-fɘōɳĭx 😈☠😈  <<      ‎‏ 
-    ‎‏      >> whatsapp virus by ëvĩʟ-fɘōɳĭx  <<      ‎‏
-    ‎‏ >> https://github.com/evilfeonix/Whats-Crasher << ‎‏ 
-    ‎‏ >> Whats-Crasher by ëvĩʟ-fɘōɳĭx hacker 😈☠😈 << ‎‏ 
+        ‎‏         >> supreme destructor tech😈☠😈  <<      ‎‏ 
+    ‎‏      >> whatsapp virus by destroyer  <<      ‎‏
+    ‎‏ >> https://github.com/kinngkolos290/Whats-Crash.git << ‎‏ 
+    ‎‏ >> Whats-Crasher by destructor hacker 😈☠😈 << ‎‏ 
     ======================================================================================
         """,
         "malicious-payload": """
@@ -185,7 +185,7 @@ def set_malicious_payload(user):
     >>‎‏    ëvĩʟ-fɘōɳĭx 😈☠😈
     >>‎‏    ëvĩʟ-fɘōɳĭx 😈☠😈
     >>    https://www.evilfeonix.com      <<
-            www.evilfeonix@gmail.com  
+            www.bainroseline788@gmail.com  
         """
     }
 
@@ -286,7 +286,8 @@ def notFound(url):
 | |/  \| || | | | (_| | |_\__ \  | |___| | | (_| \__ \ | | |
 \___/\___/|_| |_|\__,_|\__|___/   \____|_|  \__,_|___/_| |_|
 ===========================================================
-    HAHAHA!. 💀☠💀               
+    HAHAHA!. 💀☠💀    
+    Supremus destructor
     we are 🎭 anonymous 🤬,   
     we do not forgive 👿,  
     we do not forget 😈,
